@@ -47,7 +47,7 @@ Il corso si articola in 30 ore di lezione, suddivise in otto parti principali. O
 
 ### Modalità di Insegnamento:
 1. **Lezioni Frontali**: Presentazione dei concetti teorici
-2. **Esercitazioni Guidate**: Risoluzione di problemi in classe
+2. **Esercitazioni Guidate**: Risoluzione di problemi in classe. Principalmente sono gli studenti a risolvere gli esercizi con aiuto del tutor e dei compagni.
 3. **Lavori di Gruppo**: Attività collaborative per approfondire i concetti
 4. **Discussioni Interattive**: Analisi di casi pratici e applicazioni reali
 5. **Dimostrazioni Pratiche**: Quando possibile, utilizzo di esperimenti dimostrativi
