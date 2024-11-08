@@ -1,6 +1,6 @@
 # Meccanica Classica
 ## Laurea Professionalizzate in Costruzioni e Gestione del Territorio
-### UNIMORE, Anno Accademico 2024--2025
+### UNIMORE, Anno Accademico 2024—2025
 
 Benvenuti al corso di Fisica Generale I. Questo corso fornisce una solida base nella meccanica classica, partendo dai concetti fondamentali fino ad arrivare a temi più avanzati come la meccanica dei fluidi. Il corso è strutturato per bilanciare teoria e pratica, con particolare attenzione alle applicazioni reali dei concetti fisici.
 
