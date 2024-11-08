@@ -2,7 +2,10 @@
 ## Laurea Professionalizzate in Costruzioni e Gestione del Territorio
 ### UNIMORE, Anno Accademico 2024—2025
 
-Benvenuti al corso di Fisica Generale I. Questo corso fornisce una solida base nella meccanica classica, partendo dai concetti fondamentali fino ad arrivare a temi più avanzati come la meccanica dei fluidi. Il corso è strutturato per bilanciare teoria e pratica, con particolare attenzione alle applicazioni reali dei concetti fisici.
+> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."  
+> — Richard Feynman
+
+Benvenuti al corso di Esercitazioni di Meccanica. Questo corso si propone come complemento al corso di teoria. Sono, in particolare, due i suoi intenti. Il primo e' quello di chiarire dubbi legati e all'apparato matematico della fisica e concetti proprio della materia. Il secondo punto è quello di risolvere esercizi di meccanica classica di interesse per la figura professionale del geometra, fornendo strumenti utili per affrontare problemi pratici che possono emergere nel campo della costruzione e della progettazione.
 
 ### Obiettivi del Corso:
 - Comprendere i principi fondamentali della meccanica classica
