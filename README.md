@@ -1,5 +1,5 @@
 # Meccanica Classica
-## Laurea Professionalizzate in Costruzioni e Gestione del Territorio
+## Laurea Professionalizzante in Costruzioni e Gestione del Territorio
 ### UNIMORE, Anno Accademico 2024—2025
 
 > "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."  
